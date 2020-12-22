@@ -8,3 +8,7 @@ Method 1. Simply download binary and play!
 Method 2. Download code and compile
 
 Method 3. git clone it and compile
+
+
+
+You may notice that if you type the wrong letter/command, you will have to restart. Why? Pure laziness. If you find any errors, make sure to comment. Thanks!
